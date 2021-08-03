@@ -1,5 +1,5 @@
 ### Hi there 👋
-| [![Tawliew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tawliew&count_private=true&show_icons=true&hide=issues&hide_border=false&theme=algolia)](https://github.com/Tawliew?tab=repositories) |  [![Tawliew's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tawliew&hide=html,handlebars,Starlark,%20php,css,scss,javascript,Jupyter%20Notebook&langs_count=15&layout=compact&theme=algolia&hide_border=false)](https://github.com/Tawliew?tab=repositories) |
+| [![Tawliew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tawliew&count_private=true&show_icons=true&hide=issues&hide_border=false&theme=algolia)](https://github.com/Tawliew?tab=repositories) |  [![Tawliew's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tawliew&hide=html,sass,handlebars,Starlark,%20php,css,scss,javascript,Jupyter%20Notebook&langs_count=15&layout=compact&theme=algolia&hide_border=false)](https://github.com/Tawliew?tab=repositories) |
 |:-:|:-:|
 <!--
 **Tawliew/tawliew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
