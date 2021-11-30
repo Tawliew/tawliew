@@ -14,7 +14,7 @@
 <h3>CKA :hourglass:</h3>
 <h3>AWS SolutionsArchitect :hourglass_flowing_sand:</h3>
 
-[![Meus Stats](https://github-readme-stats.vercel.app/api?username=Tawliew&count_private=true&show_icons=true&hide_border=false&theme=blue-green)](https://github.com/Tawliew?tab=repositories) [![Algumas linguagens que utilizo](https://github-readme-stats.vercel.app/api/top-langs/?username=Tawliew&hide=html,sass,handlebars,Starlark,%20php,css,scss,Jupyter%20Notebook&langs_count=15&layout=compact&theme=blue-green&hide_border=false)](https://github.com/Tawliew?tab=repositories)
+[![Meus Stats](https://github-readme-stats.vercel.app/api?username=onepushmain&count_private=true&show_icons=true&hide_border=false&theme=blue-green)](https://github.com/Tawliew?tab=repositories) [![Algumas linguagens que utilizo](https://github-readme-stats.vercel.app/api/top-langs/?username=onepushmain&hide=html,sass,handlebars,Starlark,%20php,css,scss,Jupyter%20Notebook&langs_count=15&layout=compact&theme=blue-green&hide_border=false)](https://github.com/onepushmain?tab=repositories)
 
 ---
 
